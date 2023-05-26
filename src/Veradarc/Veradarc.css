@@ -1,0 +1,51 @@
+.glx{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.glx h1{
+    font-family: 'Visuelt Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 77px;
+    
+}
+.text{
+    width: 88%;
+    height: 80px;
+    /* border: solid red; */
+}
+
+.l{
+    height: 150px;
+}
+.ha{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btt4{
+    width: 40%;
+    height: 50px;
+    border-radius: 10px;
+}
+.btt4:hover{
+    background-color: orangered;
+}
+.verj4{
+    width: 102%;
+    color: orangered;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.gluxverj{
+    width: 100%;
+
+}
+input{
+    height: 50px;
+}

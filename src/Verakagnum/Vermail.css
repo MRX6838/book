@@ -1,0 +1,65 @@
+.glux{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    flex-direction: column; 
+    gap: 23px;
+}
+.pt{
+    width: 40%;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pt11{
+    display: flex;
+}
+ .pt10{
+    width: 100%;
+    
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+.pt input{
+    width: 40%;
+}
+.tx{
+    width: 40%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.span{
+    font-size: 14px;
+    display: flex;
+}
+.b{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hast{
+    width: 40%;
+    height: 50px ;
+    border-radius: 10px;
+}
+.hast:hover{
+    background-color: orangered;
+}
+.verj2{
+    width: 41%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.verj2 >p{
+color: orangered;
+}

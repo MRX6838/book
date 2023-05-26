@@ -1,0 +1,24 @@
+.center{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Visuelt Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 77px;
+    text-align: center;
+    color: #000000;
+}
+
+.contine button{
+    height: 65px;
+    width: 600px;
+    border-radius: 10px;
+    background: #FF6E1D;
+    color: rgba(255, 255, 255, 1);
+   
+}

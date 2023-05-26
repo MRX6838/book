@@ -1,0 +1,107 @@
+.head {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.l{
+    width: 1%;
+}
+.put {
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 4px
+}
+
+.ok {
+
+    width: 83%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: solid; */
+}
+
+.ook {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ok1 {
+    appearance:none;
+     background-clip: content-box;
+     border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    padding: 3px;
+    border: 1px solid orangered;
+}
+
+.ok1:checked{
+    background-color: orangered;
+    
+}
+.btt8{
+    height: 55px;
+    width: 550px;
+    left: 0px;
+    top: 0px;
+    border-radius: 10px;
+    background-color: orangered;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: solid green; */
+    
+}
+
+.btt7 {
+    width: 100%;
+    height: 120px;
+    /* border: solid red; */
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+}
+
+.btt1:hover{
+    /* background-color: orangered; */
+    /* border: solid red; */
+}
+
+.verj {
+    width: 99%;
+    color: orangered;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly   ;
+}
+
+.popup {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: #ffffffcc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    width: 500px;
+    padding: 56px 88px;
+    background-color: #f7f8fa;
+    text-align: center;
+}

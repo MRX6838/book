@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.kk{
+    height: 46px;
+    width: 130px;
+    left: 0px;
+    top: 0px;
+    border-radius: 10px;
+    background-color: orangered;
+    border-radius: 10px;
+}
+.p{
+    font-family: Visuelt Pro;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #b4b4b4;
+
+}
+.h{
+    font-family: Visuelt Pro;
+font-size: 60px;
+font-weight: 500;
+line-height: 77px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+.h5{
+    gap:5px;
+}

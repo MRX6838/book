@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sxal{
+   /* border: solid 2px; */
+   position: absolute;
+}
+.lav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: wheat;
+}
+.kk{
+    width: 50%;
+    height: 100px;
+    background-color: orangered;
+}
